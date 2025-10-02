@@ -56,7 +56,7 @@ It implements **authentication, authorization, validation, error handling, and c
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **NestJS** (framework)
 * **PostgreSQL** (database)
